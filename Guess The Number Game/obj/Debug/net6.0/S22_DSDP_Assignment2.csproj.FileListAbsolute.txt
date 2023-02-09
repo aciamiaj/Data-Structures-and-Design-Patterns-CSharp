@@ -1,0 +1,15 @@
+C:\Users\jdneu\Humber\N01516797\DSDP\S22_DSDP_Assignment2\bin\Debug\net6.0\S22_DSDP_Assignment2.exe
+C:\Users\jdneu\Humber\N01516797\DSDP\S22_DSDP_Assignment2\bin\Debug\net6.0\S22_DSDP_Assignment2.deps.json
+C:\Users\jdneu\Humber\N01516797\DSDP\S22_DSDP_Assignment2\bin\Debug\net6.0\S22_DSDP_Assignment2.runtimeconfig.json
+C:\Users\jdneu\Humber\N01516797\DSDP\S22_DSDP_Assignment2\bin\Debug\net6.0\S22_DSDP_Assignment2.dll
+C:\Users\jdneu\Humber\N01516797\DSDP\S22_DSDP_Assignment2\bin\Debug\net6.0\S22_DSDP_Assignment2.pdb
+C:\Users\jdneu\Humber\N01516797\DSDP\S22_DSDP_Assignment2\obj\Debug\net6.0\S22_DSDP_Assignment2.csproj.AssemblyReference.cache
+C:\Users\jdneu\Humber\N01516797\DSDP\S22_DSDP_Assignment2\obj\Debug\net6.0\S22_DSDP_Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdneu\Humber\N01516797\DSDP\S22_DSDP_Assignment2\obj\Debug\net6.0\S22_DSDP_Assignment2.AssemblyInfoInputs.cache
+C:\Users\jdneu\Humber\N01516797\DSDP\S22_DSDP_Assignment2\obj\Debug\net6.0\S22_DSDP_Assignment2.AssemblyInfo.cs
+C:\Users\jdneu\Humber\N01516797\DSDP\S22_DSDP_Assignment2\obj\Debug\net6.0\S22_DSDP_Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\jdneu\Humber\N01516797\DSDP\S22_DSDP_Assignment2\obj\Debug\net6.0\S22_DSDP_Assignment2.dll
+C:\Users\jdneu\Humber\N01516797\DSDP\S22_DSDP_Assignment2\obj\Debug\net6.0\refint\S22_DSDP_Assignment2.dll
+C:\Users\jdneu\Humber\N01516797\DSDP\S22_DSDP_Assignment2\obj\Debug\net6.0\S22_DSDP_Assignment2.pdb
+C:\Users\jdneu\Humber\N01516797\DSDP\S22_DSDP_Assignment2\obj\Debug\net6.0\S22_DSDP_Assignment2.genruntimeconfig.cache
+C:\Users\jdneu\Humber\N01516797\DSDP\S22_DSDP_Assignment2\obj\Debug\net6.0\ref\S22_DSDP_Assignment2.dll
