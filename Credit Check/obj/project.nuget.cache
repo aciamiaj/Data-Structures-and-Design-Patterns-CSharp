@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "2cXDYW8xOZ4RcxYyUt1L99BmyDtenjPNPDd3fUqtcGYPb34jYN5/H8bXLKq5bgrIxW8alqDu1mAYp1D4qmdyUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jdneu\\Humber\\N01516797\\DSDP\\Assignment4\\Assignment4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jdneu\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\jdneu\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\jdneu\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\jdneu\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\jdneu\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\jdneu\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\jdneu\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
