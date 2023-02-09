@@ -1,0 +1,15 @@
+C:\Users\jdneu\Humber\N01516797\DSDP\Assignment5\obj\Debug\net6.0\Assignment5.csproj.AssemblyReference.cache
+C:\Users\jdneu\Humber\N01516797\DSDP\Assignment5\obj\Debug\net6.0\Assignment5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdneu\Humber\N01516797\DSDP\Assignment5\obj\Debug\net6.0\Assignment5.AssemblyInfoInputs.cache
+C:\Users\jdneu\Humber\N01516797\DSDP\Assignment5\obj\Debug\net6.0\Assignment5.AssemblyInfo.cs
+C:\Users\jdneu\Humber\N01516797\DSDP\Assignment5\obj\Debug\net6.0\Assignment5.csproj.CoreCompileInputs.cache
+C:\Users\jdneu\Humber\N01516797\DSDP\Assignment5\bin\Debug\net6.0\Assignment5.exe
+C:\Users\jdneu\Humber\N01516797\DSDP\Assignment5\bin\Debug\net6.0\Assignment5.deps.json
+C:\Users\jdneu\Humber\N01516797\DSDP\Assignment5\bin\Debug\net6.0\Assignment5.runtimeconfig.json
+C:\Users\jdneu\Humber\N01516797\DSDP\Assignment5\bin\Debug\net6.0\Assignment5.dll
+C:\Users\jdneu\Humber\N01516797\DSDP\Assignment5\bin\Debug\net6.0\Assignment5.pdb
+C:\Users\jdneu\Humber\N01516797\DSDP\Assignment5\obj\Debug\net6.0\Assignment5.dll
+C:\Users\jdneu\Humber\N01516797\DSDP\Assignment5\obj\Debug\net6.0\refint\Assignment5.dll
+C:\Users\jdneu\Humber\N01516797\DSDP\Assignment5\obj\Debug\net6.0\Assignment5.pdb
+C:\Users\jdneu\Humber\N01516797\DSDP\Assignment5\obj\Debug\net6.0\Assignment5.genruntimeconfig.cache
+C:\Users\jdneu\Humber\N01516797\DSDP\Assignment5\obj\Debug\net6.0\ref\Assignment5.dll
